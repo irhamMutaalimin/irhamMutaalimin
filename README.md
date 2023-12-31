@@ -1,4 +1,4 @@
-<img src="https://github.com/irhamMutaalimin/irhamMutaalimin/assets/144558007/f4092b78-4fa9-4158-b1fe-7cc92f8aa23a" width="1000" height="200">
+<img src="https://github.com/irhamMutaalimin/irhamMutaalimin/assets/144558007/f4092b78-4fa9-4158-b1fe-7cc92f8aa23a" width="1000" height="100">
 
 <h1 align="center">Hi 👋, I'm M. Irham Muta'aliminn</h1>
 <h3 align="center">A student of Informatics Engineering UIN Sunan Gunung Djati Bandung</h3>
